@@ -1,6 +1,6 @@
 - Hi, I’m Smith!
 - I’m interested in work!
-- Learning C++
+- Feel free and write me :)
 
 <!---
 geosmith45/geosmith45 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
